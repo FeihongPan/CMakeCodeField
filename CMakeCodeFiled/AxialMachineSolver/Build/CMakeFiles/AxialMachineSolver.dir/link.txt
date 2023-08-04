@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\AxialMachineSolver.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe qc CMakeFiles\AxialMachineSolver.dir/objects.a @CMakeFiles\AxialMachineSolver.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\AxialMachineSolver.dir/objects.a -Wl,--no-whole-archive -o E:\VSCodeProject\CMakeCodeFiled\AxialMachineSolver\bin\AxialMachineSolver.exe -Wl,--out-implib,E:\VSCodeProject\CMakeCodeFiled\AxialMachineSolver\bin\libAxialMachineSolver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AxialMachineSolver.dir\linkLibs.rsp

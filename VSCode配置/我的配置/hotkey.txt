@@ -1,0 +1,8 @@
+1. Ctrl Shift B = compile file
+2. Ctrl K + Ctrl M = Splitter Window
+3. Ctrl / + Shift Alt A = Command
+4. Ctrl F5 = Run Code
+5. F5 / F9 / F11 / F10 / Shift F5 = Debug
+6. F12 = Go to Definition 
+7. Alt F12 = Peak Definition
+8. Ctrl X / Ctrl C / Ctrl V / Ctrl Z / Ctrl Y / Ctrl F / Ctrl H

@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 15,
+  "editor.fontFamily": "Cascadia Mono",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "none",
+  "editor.cursorStyle": "line"
+}

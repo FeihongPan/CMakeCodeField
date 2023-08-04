@@ -1,0 +1,56 @@
+[
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\AxVaneless.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\AxVaneless.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/AxVaneless.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/AxVaneless.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Fluid.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Fluid.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Fluid.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Fluid.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Machine.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Machine.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Machine.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Machine.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Rotor.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Rotor.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Rotor.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Rotor.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Solver.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Solver.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Solver.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Solver.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Stage.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Stage.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Stage.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Stage.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Station.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Station.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Station.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Station.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Stator.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Stator.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Stator.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Stator.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/Build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\AxialMachineSolver.dir\\src\\Vaned.cpp.obj -c E:\\VSCodeProject\\CMakeCodeFiled\\AxialMachineSolver\\src\\Vaned.cpp",
+  "file": "E:/VSCodeProject/CMakeCodeFiled/AxialMachineSolver/src/Vaned.cpp",
+  "output": "CMakeFiles/AxialMachineSolver.dir/src/Vaned.cpp.obj"
+}
+]
